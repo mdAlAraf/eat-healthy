@@ -1,0 +1,56 @@
+body {
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.flexable-container {
+    display: flex;
+    padding: 30px 50px;
+    padding-bottom: 100px;
+}
+
+.orange {
+    color: orange;
+}
+
+.half-width {
+    width: 60%;
+
+}
+
+.header-text {
+    width: 40%;
+}
+
+.header-text p {
+    width: 70%;
+}
+
+.half-width img {
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+
+
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    padding-bottom: 40px;
+}
+
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 50px;
+
+}
